@@ -10,3 +10,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anthonyjohnhinay&show_icons=true&theme=midnight-purple)
 
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ajhinay2004&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=ajhinay2004&redirect=true)
+
