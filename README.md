@@ -1,8 +1,12 @@
 
-<h1 align="center">Hi 👋, I'm anthonyjohnhinay</h1>
 <p align="center">im a student ,beginner, a gamer. Loves to sleep <3 </p>
+<h3> 🧰 Curently working </h3>
 
-<h3>Languages and Tools:</h3>
+[anthonyjohnhinay/sauce](https://github.com/anthonyjohnhinay/sauce) - Discord Music bot with Covid-19 tally
+ 
+ 
+
+<h3> Languages and Tools:</h3>
 <p align="left"> 
  <!---Html--->
  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/> </a> 
@@ -21,8 +25,9 @@
  <!---Google--->
   <a href="https://www.google.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/chrome/chrome-plain.svg" alt="chrome" width="30" height="30"/></a> </p>
 
+<h3> 🖥️ Stats </h3>
 
 ![Aj's GitHub stats](https://github-readme-stats.vercel.app/api?username=anthonyjohnhinay&show_icons=true&theme=midnight-purple)
-
+![Aj's profile](./profile-3d-contrib/profile-night-rainbow.svg)
 
 
