@@ -29,7 +29,7 @@ also some secret personal projects and hopefully can develop more maybe not toda
 
 <h3> 🖥️ Stats </h3>
 
-![Aj's GitHub stats](https://github-readme-stats.vercel.app/api?username=anthonyjohnhinay&show_icons=true&theme=midnight-purple)
+![Aj's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnyjohny20&show_icons=true&theme=midnight-purple)
 ![Aj's profile](./profile-3d-contrib/profile-night-rainbow.svg)
 
 
