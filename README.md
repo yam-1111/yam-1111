@@ -1,10 +1,17 @@
-
+<!---Wews--->
+<p align="center">
+  <img 
+    width="500"
+    height="250"
+    src="https://c.tenor.com/2dlM11dggxUAAAAC/patrick-computer.gif"
+  >
+</p>
 <p align="center">im a student ,beginner but doing my best to create awesome, a  mildly gamer and lastly loves to sleep <3 </p>
-<h3> 🧰 Curently working </h3>
 
-[anthonyjohnhinay/sauce](https://github.com/anthonyjohnhinay/sauce) - Discord Music bot with Covid-19 tally
+ 
 
-also some secret personal projects and hopefully can develop more maybe not today but in the future hehe 😉
+
+<h3> 🌱 im learning about Python Server Framework, some css like tailwind and also react <h3>
  
  
 
