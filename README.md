@@ -61,9 +61,9 @@
 <hr>
 
 <div align="center"style="display: flex; flex-direction: row;">
- <img class="img" src="https://github-readme-stats.vercel.app/api?username=johnyjohny20&show_icons=true&theme=midnight-purple" />
- <img class="img" width="410"src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnyjohny20&theme=midnight-purple&layout=compact" />
-  <img class="img" src="./profile-3d-contrib/profile-night-rainbow.svg"/>
+ <img class="img" width="400"src="https://github-readme-stats.vercel.app/api?username=johnyjohny20&show_icons=true&theme=midnight-purple" />
+ <img class="img" width="400"src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnyjohny20&theme=midnight-purple&layout=compact" />
+  <img class="img" width="75%"src="./profile-3d-contrib/profile-night-rainbow.svg"/>
 </div>
 
 
