@@ -40,7 +40,7 @@
  <!---Html--->
  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/> </a> 
  <!---Flask--->
-  <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank"> <img src="https://cms-assets.tutsplus.com/uploads/users/30/posts/16037/preview_image/flask.png" style="border-radius: 50%;"alt="flask" width="30" height="30"/> </a> 
+  <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank"> <img src="https://raw.githubusercontent.com/johnyjohny20/johnyjohny20/1e52b2bb67e13e3114a7e4ec54914bdc438e1935/static/flask.svg" style="border-radius: 100;"alt="flask" width="30" height="30"/> </a> 
  <!---DJANGO--->
 <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="jango" width="30" height="30"/> </a> 
  <!---Ps--->
@@ -62,10 +62,10 @@
 
 <div align="center"style="display: flex; flex-direction: row;">
 <!---dev stats---->
- <img class="img" width="400"src="https://github-readme-stats.vercel.app/api?username=johnyjohny20&show_icons=true&theme=midnight-purple" />
+ <img class="img" width="450"src="https://github-readme-stats.vercel.app/api?username=johnyjohny20&show_icons=true&theme=midnight-purple" />
  <!----common LANG --->
  <img class="img" width="380"src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnyjohny20&theme=midnight-purple&layout=compact" />
-  <img class="img" height"50" src="./profile-3d-contrib/profile-night-rainbow.svg"/>
+  <img class="img" width="800" src="./profile-3d-contrib/profile-night-rainbow.svg"/>
 </div>
 
 
