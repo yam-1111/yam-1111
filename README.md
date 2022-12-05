@@ -40,9 +40,9 @@
  <!---Html--->
  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/> </a> 
  <!---Flask--->
-  <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/flask/flask-original.svg" alt="flask" width="30" height="30"/> </a> 
+  <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank"> <img src="https://cms-assets.tutsplus.com/uploads/users/30/posts/16037/preview_image/flask.png" style="border-radius: 50%;"alt="flask" width="30" height="30"/> </a> 
  <!---DJANGO--->
-<a href="https://www.djangoproject.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/django/django-plain.svg" alt="photoshop" width="30" height="30"/> </a> 
+<a href="https://www.djangoproject.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="jango" width="30" height="30"/> </a> 
  <!---Ps--->
  <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="30" height="30"/> </a> 
  <!---Python--->
@@ -65,7 +65,7 @@
  <img class="img" width="400"src="https://github-readme-stats.vercel.app/api?username=johnyjohny20&show_icons=true&theme=midnight-purple" />
  <!----common LANG --->
  <img class="img" width="380"src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnyjohny20&theme=midnight-purple&layout=compact" />
-  <img class="img" width="75%"src="./profile-3d-contrib/profile-night-rainbow.svg"/>
+  <img class="img" height"50" src="./profile-3d-contrib/profile-night-rainbow.svg"/>
 </div>
 
 
