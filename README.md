@@ -23,7 +23,7 @@
 
 <td>
 <ul>
-<li>🎮 Mild video gamer </li>
+<li>🧰 do some random things in life</li>
 <li>🌱 Currently beginner but i'm doing my best to create awesome things</li>
 <li>💤 Loves to sleep </li>
 </ul>
