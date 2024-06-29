@@ -9,6 +9,8 @@
 
 <p align="center"> <b>Hello I'm Anthony John</b></p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=yam-1111&margin-h=10&margin-w=10&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 <!----INFOS---->
 <table cellspacing="0"cellpadding="0"style="border : none;">
 <tr>
